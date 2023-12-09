@@ -1,0 +1,1 @@
+cl.exe m3u8dl-invoke.cpp crypt32.lib /EHsc /Fe:m3u8dl-invoke.exe

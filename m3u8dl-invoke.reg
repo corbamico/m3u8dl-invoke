@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\m3u8dl\shell\open\command]
+@="\"D:\\your_path\\m3u8dl-invoke.exe\" \"%1\""
